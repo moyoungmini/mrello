@@ -2,9 +2,9 @@
 2016년 2학년 1학기 자바 최종 프로젝트 <br>
 
 사용 기술
-Java GUI - Swing & Frame
-MySQL 
-JDBC
+Java GUI - Swing & Frame <br>
+MySQL <br>
+JDBC <br>
 
 -----------------------------------------------------------
 <h2>Flow</h2>
